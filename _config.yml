@@ -1,0 +1,21 @@
+# Site settings
+title: Stepping into the world of code.
+header-img: img/home-bg.png
+email: josseytee@gmail.com
+copyright_name: johnsontaiwo
+description: > # this means to ignore newlines until "baseurl:"
+  How the journey began.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  johnsontaiwo
+learn_profile: johnsontaiwo
+email_username: josseytee@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
