@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Jquery frontend Portfolio Project Experience"
-date:       2018-04-01 19:15:44 +0000
+date:       2018-04-01 15:15:45 -0400
 permalink:  my_jquery_frontend_portfolio_project_experience
 ---
 
