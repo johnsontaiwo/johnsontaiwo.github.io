@@ -14,4 +14,4 @@ But nevertheless, it's been an amazing and wonderful learning experience going f
 
 Talking about my project, it took me longer thanI anticipated to complete it as I had to overcome many hurdles along the line, not without the help of the amazing Learn Technical coaches. It's during this project I've learnt more and became more knowledgable about some subjects specifically API and Object Oriented Javascript which I really struggled with during the course.
 
-While this has taken a lot longer than I would've wanted, I'm very encouraged with the knowledge gained  and the progress made so far.
+While this has taken a lot longer than I would've wanted, I'm very encouraged with the knowledge gained and the progress made so far.
